@@ -2,3 +2,4 @@ sultan shaukat
 23-st-048
 cout<<"addition of 2 number"<<a+b;
 cout<<"subtraction of 2 number"<<a-b;
+cout<<"multiplication of 2 number"<<a*b;
